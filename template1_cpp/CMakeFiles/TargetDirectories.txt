@@ -1,0 +1,3 @@
+/Users/ivanobuhov/Desktop/Kal/CG_1HW/msu_cmc_cg_2021/template1_cpp/CMakeFiles/rebuild_cache.dir
+/Users/ivanobuhov/Desktop/Kal/CG_1HW/msu_cmc_cg_2021/template1_cpp/CMakeFiles/edit_cache.dir
+/Users/ivanobuhov/Desktop/Kal/CG_1HW/msu_cmc_cg_2021/template1_cpp/CMakeFiles/main.dir
